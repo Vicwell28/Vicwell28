@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Vicwell28/Vicwell28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a focus on mobile and web technologies. Here's a bit about me:
 
-Here are some ideas to get you started:
+🔭 **Currently Working On:**  
+I’m currently diving deep into the world of .NET MAUI, the new cross-platform framework from Microsoft for building native mobile and desktop apps with .NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Background:**  
+I come from a mobile development background, with extensive experience in iOS development. I've crafted beautiful and performant apps that have made users’ lives easier and more enjoyable.
+
+💻 **Tech Stack:**  
+- **Backend:** Proficient in AdonisJS, creating secure and scalable APIs that power complex applications.  
+- **Frontend:** Skilled in Angular, building responsive and dynamic user interfaces that provide excellent user experiences.
+
+👯 **Looking to Collaborate On:**  
+I’m open to collaborating on innovative .NET MAUI projects, as well as other mobile and web development projects that aim to make a positive impact.
+
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vicwell28&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicwell28&layout=compact)
